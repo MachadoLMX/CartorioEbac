@@ -1,0 +1,3 @@
+CAMINHO_SCRIPT="/mnt/c/Users/Lucas/OneDrive/Área\ de\ Trabalho/EBACcalculadora.py"
+python3 "$CAMINHO_SCRIPT"
+
